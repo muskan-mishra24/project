@@ -25,11 +25,8 @@ A responsive weather web application built using HTML, CSS, and JavaScript that 
 
 ## 📷 Screenshots
 <!-- Add your project screenshots here -->
-![App Screenshot](your-image-link-here)
+![App Screenshot](<img width="290" height="244" alt="Screenshot 2026-03-31 001242" src="https://github.com/user-attachments/assets/1d022912-df85-409e-97bd-d5020c7100d6" />
+)
 
 ---
 
-## ▶️ How to Run Locally
-1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
