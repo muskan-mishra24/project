@@ -16,10 +16,35 @@ A responsive weather web application built using HTML, CSS, and JavaScript that 
 ---
 
 ## 🛠️ Tech Stack
-- HTML
-- CSS
-- JavaScript
-- REST API (Weather API)
+Frontend- HTML,CSS,JavaScript
+API-https://openweathermap.org/
+Icons-https://fontawesome.com/
+---
+
+Additional information
+*To get name of the location (city name or area name) by using 
+longitude and latitude :- https://openweathermap.org/api/geocoding-api
+
+*To get current location weather :- https://openweathermap.org/current
+
+*To get 5 day forecast :- https://openweathermap.org/forecast5
+---
+##Getting Started
+To get a local copy up and running, follow these simple steps.
+
+Prerequisites:
+A modern web browser.
+An API key from-https://home.openweathermap.org/api_keys
+
+Installation
+1.Clone the repository:
+ git clone https://github.com/kaushalsahu07/weather.git
+
+ ---
+
+ ##Usage
+To use the Weather App, simply enter the name of the city in the search bar and press enter. The app will display the current weather conditions, including temperature, humidity, wind speed, and more.
+ 
 
 ---
 
