@@ -20,7 +20,7 @@ Frontend- HTML,CSS,JavaScript
 
 API-https://openweathermap.org/
 
-Icons-https://fontawesome.com/
+Icons-fontawesome.com
 ---
 
 Additional information
